@@ -35,5 +35,5 @@ Find the price data of a certain stock / crypto / commodity / forex / etf / futu
 =====================================================
 ```
 ### Executing the script in the command-line interface:
-![stock.sh](stock-cli.png)
+![stock.sh](Screenshot/stock-cli.png)
 
