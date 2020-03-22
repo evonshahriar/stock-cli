@@ -18,7 +18,7 @@ Find the price data of a certain stock / crypto / commodity / forex / etf / futu
  
  Examples:
     
-    ./stock.sh TSLA (Tinker Symbol Of Tesla Inc.)
+    ./stock.sh TSLA (Ticker/Symbol Of Tesla Inc.)
     ./stock.sh 600883.SS (600883 = Yunnan Bowin Tech; SS = Shanghai Stock Exchange)
     ./stock.sh BTC-USD (Cryptocurrency - CCC)
     ./stock.sh GOLD (Commodity)
