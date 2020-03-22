@@ -1,8 +1,10 @@
 # stock-cli
 Find the price data of a certain stock / crypto / commodity / forex / etf / futures using this bash-script.
-```bash
+### Executing the script in the command-line interface:
+![stock.sh](Screenshot/stock-cli.png)
+
 ====================================================
-                    [stock.sh]
+                      HELP
 ====================================================
  Usage:
     
@@ -32,8 +34,5 @@ Find the price data of a certain stock / crypto / commodity / forex / etf / futu
  Tinker/Symbol lookup:
    
     https://finance.yahoo.com/lookup
-=====================================================
-```
-### Executing the script in the command-line interface:
-![stock.sh](Screenshot/stock-cli.png)
+
 
