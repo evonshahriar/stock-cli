@@ -3,7 +3,7 @@ Find the price data of a certain stock / crypto / commodity / forex / etf / futu
 ## Executing the script
 ![stock.sh](Screenshot/stock-cli.png)
 
-### Help
+## Help
 
  Usage:
     
