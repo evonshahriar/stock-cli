@@ -24,7 +24,7 @@ if [ -z "$tickers" ]; then
  Sample command: 
     ./stock.sh TSLA 600883.SS BTC-USD GOLD USDCNY=X BRK-A
     watch -n 1 -c ./stock.sh TSLA 600883.SS BTC-USD GOLD USDCNY=X BRK-A (to see the updates of every sec)
- Tinker/Symbol lookup:
+ Ticker/Symbol lookup:
     https://finance.yahoo.com/lookup
 =====================================================
   "
