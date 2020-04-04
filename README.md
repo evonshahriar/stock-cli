@@ -1,4 +1,5 @@
 # stock-cli
+[![Build Status](https://travis-ci.com/evonshahriar/stock-cli.svg?branch=master)](https://travis-ci.com/evonshahriar/stock-cli)
 ![GitHub repo size](https://img.shields.io/github/repo-size/evonshahriar/stock-cli)
 ![GitHub](https://img.shields.io/github/license/evonshahriar/stock-cli)
 
