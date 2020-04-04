@@ -1,4 +1,7 @@
 # stock-cli
+![GitHub repo size](https://img.shields.io/github/repo-size/evonshahriar/stock-cli)
+![GitHub](https://img.shields.io/github/license/evonshahriar/stock-cli)
+
 Find the price data of a certain stock / crypto / commodity / forex / etf / futures using this bash-script.
 ## Executing the script
 ![stock.sh](Screenshot/stock-cli.png)
