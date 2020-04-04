@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #https://www.evonshahriar.com
 tickers=("$@")
 if [ -z "$tickers" ]; then
